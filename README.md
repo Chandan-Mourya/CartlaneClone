@@ -54,13 +54,7 @@ Clone the project
 ![](images/payment.png)
 
 
-## Authors
 
-- Aakarsh
-- Sumangal Dey
-- Shubham Mishra
-- Ratnesh Kumar
-- Jogi Saikiran
 
 ## CaratLane Clone Blog link
 
