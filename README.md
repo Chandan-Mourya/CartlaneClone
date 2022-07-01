@@ -32,24 +32,24 @@ VS Code
 Clone the project
 
 ```bash
-  https://github.com/Shubham-46/CARAT-LANE-CLONE.git
+  https://github.com/Chandan-Mourya/CartlaneClone/
 ```
 
 
 ## Website Flow
 
-- Signup and Login page by Aakarsh
+
 ![](images/signup.png)
 ![](images/login.png)
 
-- Homepage by Aakarsh and Sumangal
+
 ![](images/homepage.png)
 ![](images/homepage2.png)
 
-- Product pages by ratnesh and Saikiran
+
 ![](images/product.png)
 
-- Checkout and Payment pages by Shubham
+
 ![](images/checkout.png)
 ![](images/payment.png)
 
@@ -58,5 +58,5 @@ Clone the project
 
 ## CaratLane Clone Blog link
 
-[CLick here for the Blog link](https://medium.com/@aakarsh604/caratlane-website-cloning-466ea06a68c4)
+[CLick here for the Blog link](https://medium.com/@chandanmourya4786/caratlaneclon-website-c53fa3e9a3dc)
 
